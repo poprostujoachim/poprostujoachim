@@ -13,6 +13,7 @@ I'm a developer interested in:
 ### 🧩 Wafer Defect Detection
 
 AI-powered semiconductor wafer defect detection with multi-class classification, real-time analytics, and explainability.
+
 🎯 Multi-Class Detection: 4 defect types (Normal, Scratch, Spot, Crack)
 🔥 GradCAM Heatmaps: Visual defect localization
 📊 Real-Time Analytics: Live statistics and trend charts
@@ -21,15 +22,29 @@ AI-powered semiconductor wafer defect detection with multi-class classification,
 📄 PDF Reports: Professional quality reports
 🐳 Docker Ready: Containerized deployment
 
-🔗 https://github.com/poprostujoachim/wafer-defect-detection.git
+🔗 [Link](https://github.com/poprostujoachim/wafer-defect-detection)
+
+### 🌱 MochiMate
+
+A cozy virtual-pet productivity desktop app where your study habits help your companion grow and evolve.
+
+✨ Virtual pet evolution system  
+📚 Pomodoro-style study sessions  
+🎨 Cozy pixel-inspired UI  
+💖 Mood & progression mechanics  
+🖥️ Desktop app built with Electron + React  
+⚡ Smooth animations and interactive experience 
+
+🔗 [Link](https://github.com/poprostujoachim/mochimate)
 
 ### 🧪 Song Recommendation
 
-A machine learning-based music recommendation system that suggests similar songs based on audio features from Spotify dataset.
-Cosine Similarity: Recommends songs based on feature vector similarity
-Clustering-Based: Groups similar songs using K-Means clustering
-Feature Engineering: Analyzes genre, tempo, energy, danceability, and more
-Interactive Dashboard: Streamlit web interface for exploring recommendations
+A machine learning-based music recommendation system that suggests similar songs using Spotify audio features.
+
+🎧 Cosine similarity recommendations  
+📊 K-Means clustering  
+🧠 Feature engineering & preprocessing  
+📈 Interactive Streamlit dashboard  
 
 🔗 [Link](https://github.com/poprostujoachim/song-recommendation-engine.git)
 
@@ -37,15 +52,11 @@ Interactive Dashboard: Streamlit web interface for exploring recommendations
 
 ## 🛠 Tech Stack
 
-* Languages: Python / C++ / SQL
-* Tools: Git, Docker
+* Languages: Python / C++ / SQL / TypeScript / JavaScript
+* Frontend & Desktop: React / Electron / TailwindCSS / Framer Motion
+* AI / Data: TensorFlow / Pandas / Scikit-learn / OpenCV
+* Tools: Git / GitHub / Docker / SQLite 
 * Currently learning: JavaScript
-
----
-
-## 📈 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=poprostujoachim\&show_icons=true)
 
 ---
 
