@@ -3,7 +3,7 @@
 I'm a developer interested in:
 
 * 🧠 AI, Databases, Machine Learning
-* ⚙️ Building cool things with [tech stack]
+* ⚙️ Building cool things with
 * 🚀 Learning fast & shipping projects
 
 ---
@@ -56,7 +56,7 @@ A machine learning-based music recommendation system that suggests similar songs
 * Frontend & Desktop: React / Electron / TailwindCSS / Framer Motion
 * AI / Data: TensorFlow / Pandas / Scikit-learn / OpenCV
 * Tools: Git / GitHub / Docker / SQLite 
-* Currently learning: JavaScript
+* Currently learning: RAG / MCP
 
 ---
 
